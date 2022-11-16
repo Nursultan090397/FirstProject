@@ -1,4 +1,4 @@
 package peaksoft.model.service;
 
-public interface TaskRepository {
+public interface TaskService {
 }

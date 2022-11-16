@@ -1,2 +1,4 @@
-package peaksoft.model.repository;public class CourseRepository {
+package peaksoft.model.repository;
+
+public interface CourseRepository {
 }

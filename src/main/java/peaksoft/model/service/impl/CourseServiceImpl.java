@@ -1,2 +1,4 @@
-package peaksoft.model.service.impl;public class CourseImpl {
+package peaksoft.model.service.impl;
+
+public class CourseServiceImpl {
 }

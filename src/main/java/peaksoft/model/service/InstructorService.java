@@ -1,2 +1,4 @@
-package peaksoft.model.service;public class instructorService {
+package peaksoft.model.service;
+
+public interface InstructorService {
 }

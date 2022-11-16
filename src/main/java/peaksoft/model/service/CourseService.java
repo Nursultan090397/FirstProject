@@ -1,2 +1,4 @@
-package peaksoft.model.service;public class CourseService {
+package peaksoft.model.service;
+
+public interface CourseService {
 }

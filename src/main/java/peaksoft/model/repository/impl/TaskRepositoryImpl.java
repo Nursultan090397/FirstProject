@@ -1,2 +1,4 @@
-package peaksoft.model.repository.impl;public class TaskRepositoryImpl {
+package peaksoft.model.repository.impl;
+
+public class TaskRepositoryImpl {
 }

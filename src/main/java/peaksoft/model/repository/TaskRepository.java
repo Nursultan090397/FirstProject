@@ -1,2 +1,4 @@
-package peaksoft.model.repository;public class TaskRepository {
+package peaksoft.model.repository;
+
+public interface TaskRepository {
 }

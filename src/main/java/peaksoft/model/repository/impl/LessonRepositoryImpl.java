@@ -1,2 +1,4 @@
-package peaksoft.model.repository.impl;public class LessonRepositoryImpl {
+package peaksoft.model.repository.impl;
+
+public class LessonRepositoryImpl {
 }

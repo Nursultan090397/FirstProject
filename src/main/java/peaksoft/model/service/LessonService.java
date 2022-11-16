@@ -1,4 +1,4 @@
 package peaksoft.model.service;
 
-public interface LessonRepository {
+public interface LessonService {
 }

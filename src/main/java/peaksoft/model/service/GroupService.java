@@ -1,2 +1,4 @@
-package peaksoft.model.service;public class GroupService {
+package peaksoft.model.service;
+
+public interface GroupService {
 }

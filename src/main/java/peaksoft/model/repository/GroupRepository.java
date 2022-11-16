@@ -1,2 +1,4 @@
-package peaksoft.model.repository;public class GroupRepository {
+package peaksoft.model.repository;
+
+public interface GroupRepository {
 }
